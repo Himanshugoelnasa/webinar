@@ -4,9 +4,9 @@ namespace app\Http\Controllers\Admin;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
-use App\Http\Controllers\Controller;
-use App\Models\Webinar;
-use App\Models\Student;
+use app\Http\Controllers\Controller;
+use app\Models\Webinar;
+use app\Models\Student;
 use Illuminate\Support\Str;
 use DB;
 use Illuminate\Support\Facades\Crypt;   
