@@ -11,6 +11,7 @@
   
                 <div class="card-body">
                     @component('components.alert')
+                    
                     @endcomponent
                     <div class="container table-responsive ">
                                  

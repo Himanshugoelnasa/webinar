@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Http\Controllers\Admin;
+namespace app\Http\Controllers\admin;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
