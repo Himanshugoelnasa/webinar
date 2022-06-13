@@ -1,10 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\FrontController;
-use App\Http\Controllers\HomeController;
-use App\Http\Controllers\Admin\AdminController;
-use App\Http\Controllers\Admin\Auth\LoginController;
+use app\Http\Controllers\FrontController;
+use app\Http\Controllers\HomeController;
+use app\Http\Controllers\Admin\AdminController;
+use app\Http\Controllers\Admin\Auth\LoginController;
 
 
 
